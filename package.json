@@ -1,0 +1,27 @@
+{
+  "name": "typescript-template",
+  "version": "1.0.0",
+  "description": "Plantilla para un proyecto de TypeScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anventech/typescript-template.git"
+  },
+  "keywords": [
+    "typescript",
+    "ts",
+    "template"
+  ],
+  "author": "anventech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anventech/typescript-template/issues"
+  },
+  "homepage": "https://github.com/anventech/typescript-template#readme",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
+}
