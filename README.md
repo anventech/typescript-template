@@ -4,7 +4,7 @@ Plantilla para un proyecto de TypeScript.
 
 ## Descripción
 
-Esta es una plantilla para un proyecto escrito en TypeScript, par a los que no sepan qué es TypeScript:
+Esta es una plantilla para un proyecto escrito en TypeScript, para los que no sepan qué es TypeScript:
 
 ```
 TypeScript es un lenguaje de programación libre y de código abierto desarrollado y mantenido por Microsoft. Es un superconjunto de JavaScript, que esencialmente añade tipos estáticos y objetos basados en clases.
